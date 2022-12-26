@@ -1,6 +1,6 @@
 import React from 'react';
 
-exxport default function Watch () {
+export default function Watch () {
     return (
         <div>Watch</div>
     )
